@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sangam-room-note.mens-esthe.space/sitemap.xml
